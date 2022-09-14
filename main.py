@@ -2,4 +2,9 @@ name = "frank"
 
 print(f"hello {name}")
 
-print("teste1")
+
+def divisao(a, b):
+    print("DIVISÃO", a + b)
+
+
+divisao(1, 2)
